@@ -1,30 +1,63 @@
 body{
     align-items: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Noto Sans Georgian", sans-serif;
 }
 .container{
-    width: 600px;
+    width: 550px;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    padding: 15px;
+    justify-content: center;
 }
 .container2{
-    margin: 20px 20px;
-    
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    left: 20px;
+    right: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .atas{
     margin-left: auto;
     margin-right: auto;
     color: gray;
     font-size: 10px;
+    text-align: center;
+}
+.border {
+    border-bottom: 0.5px dashed gray;
 }
 .h1{
-    align-items: center;
+    text-align: center;
+}
+.span{
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 25px;
 }
 .img{
-    border: 15px;
+    width: 539px;
+    height: 242px;
+    top: 248px;
+    left: 384px;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.img2{
+    width: 566px;
+    height: 313px;
+    top: 1137px;
+    left: 381px;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
 }
 .paragraf{
     font-size: 12px;
+    left: auto;
+    right: auto;
+    line-height: 20px;
 }
