@@ -1,0 +1,30 @@
+body{
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 600px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+.container2{
+    margin: 20px 20px;
+    
+}
+.atas{
+    margin-left: auto;
+    margin-right: auto;
+    color: gray;
+    font-size: 10px;
+}
+.h1{
+    align-items: center;
+}
+.img{
+    border: 15px;
+}
+.paragraf{
+    font-size: 12px;
+}
